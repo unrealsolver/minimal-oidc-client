@@ -1,0 +1,8 @@
+module.exports = {
+  OIDC_HOST: "http://127.0.0.1:8000",
+  OIDC_BASE_URL: "o",
+  OIDC_REDIRECT_URI: "http://127.0.0.1:3001/oauth",
+  OIDC_CLIENT_ID: "614100",
+  OIDC_CLIENT_SECRET: "2f30356f8439617403e33377430cfb9b148a2e8ee9e2d5c1cd42c642",
+  OIDC_POST_LOGOUT_REDIRECT_URI: "https://http://127.0.0.1:3000/logout",
+}
